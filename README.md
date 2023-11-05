@@ -1,2 +1,2 @@
-# Say-sal-Analiz-dev-1
-Sayısal analiz taylor serisi hesaplama ödevi
+# Sayisal-Analiz-Odev-1
+Sayısal analiz taylor serisi hesaplama ödevi.
